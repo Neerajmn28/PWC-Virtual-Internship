@@ -53,7 +53,7 @@ Possible KPIs include:
   - Define proper KPIs in hiring, promotion, performance, and turnover
   - Create a dashboard for the HR manager that reflects all relevant Key Performance Indicators (KPIs) in the dataset
   - Identify potential root causes for the slow progress in achieving gender balance at the executive management level
-![Task 3 Dashboard 1](https://github.com/Neerajmn28/PWC-Virtual-Internship/blob/main/new/Task%204.1.png?raw=true)
+![Task 3 Dashboard 1]([<img width="593" alt="Image" src="https://github.com/user-attachments/assets/7ab9a579-f191-403d-bab9-2143c1551e6b" />](https://private-user-images.githubusercontent.com/127232273/407395903-7ab9a579-f191-403d-bab9-2143c1551e6b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgwODEzNTEsIm5iZiI6MTczODA4MTA1MSwicGF0aCI6Ii8xMjcyMzIyNzMvNDA3Mzk1OTAzLTdhYjlhNTc5LWYxOTEtNDAzZC1iYWI5LTIxNDNjMTU1MWU2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyOFQxNjE3MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNTVmZjU5YjczM2I1ZmNiY2MxYWUzNmEzYjA4OGEyODVhZTg5YzI4M2MzODU0OGIzM2I2N2NlMTk1OTA3Mjc3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.perMglwvkr4qW2e-_B45EK7lRkff0qbSe112LTOLQFI))
 
     
 
